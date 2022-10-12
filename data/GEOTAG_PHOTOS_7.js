@@ -1,0 +1,1 @@
+var json_GEOTAG_PHOTOS_7 = {"type":"FeatureCollection","name":"GEOTAG_PHOTOS_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAME":"DAVAO CITY PHOTO","FOLDER":"C:\\RLGM\\OCTOBER-GEOTAG\\DENR_IMG_10182018_013905 PM.jpg"},"geometry":{"type":"Point","coordinates":[125.380261944718356,7.37998279646317]}}]}
